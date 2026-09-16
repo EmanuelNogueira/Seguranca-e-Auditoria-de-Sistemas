@@ -1,0 +1,1 @@
+﻿Estou a verificar a integridade de arquivos com SHA-256.
